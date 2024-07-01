@@ -22,7 +22,7 @@ From the db folder go into postgres sql and run the schema file:  psql -U postgr
 ## Usage
 npm run start
 
-(Demo Video)[https://drive.google.com/file/d/1VgYK4jK3mmAgWdNavhbPVQg26AVaZR0n/view]
+[Demo Video](https://drive.google.com/file/d/1VgYK4jK3mmAgWdNavhbPVQg26AVaZR0n/view)
 
 ## License
 This application is covered under the MIT license.
