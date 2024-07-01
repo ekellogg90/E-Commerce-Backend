@@ -39,4 +39,4 @@ N/A
 
 ## Credits
 - People to credit: N/A
-- Tools used: express.js, sequelize.js, dotenv
+- Tools used: express.js, sequelize.js, dotenv, postgres
